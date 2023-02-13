@@ -1,1 +1,2 @@
-org\acme\GreetingResource.class
+com\amaine\dto\Policy.class
+com\amaine\PolicyResource.class

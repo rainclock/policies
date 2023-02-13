@@ -1,2 +1,2 @@
-org\acme\GreetingResourceTest.class
-org\acme\GreetingResourceIT.class
+org\acme\PolicyResourceIT.class
+org\acme\PolicyResourceTest.class
